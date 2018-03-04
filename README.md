@@ -1,2 +1,3 @@
 # hello-world
-Learning Git
+
+Learning Git to use at work as we migrate from SVN to GitHub.
